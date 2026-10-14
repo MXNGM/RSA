@@ -145,6 +145,4 @@ This implementation has not been independently audited. It should not be conside
 
 ## License
 
-See the repository for licensing information.
-
 If no license has been specified, all rights remain with the copyright holder by default.
